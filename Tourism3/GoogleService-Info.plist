@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>580221750699-smelprflq90pr0blpq8pkbm7g132omnh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.580221750699-smelprflq90pr0blpq8pkbm7g132omnh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUHEXcqdc6auJFE3DnkWtSrJoKK6vaaEE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>580221750699</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jonskynet.Tourism3</string>
+	<key>PROJECT_ID</key>
+	<string>tourism-7eeda</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tourism-7eeda.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:580221750699:ios:b94e6a66acf79b0b</string>
+	<key>DATABASE_URL</key>
+	<string>https://tourism-7eeda.firebaseio.com</string>
+</dict>
+</plist>
